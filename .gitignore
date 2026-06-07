@@ -1,2 +1,8 @@
-/target
-/.vscode
+# Maven
+target/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log

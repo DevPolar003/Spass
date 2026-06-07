@@ -1,0 +1,7 @@
+dev/morgan/spass/ui/Colors.class
+dev/morgan/spass/Main.class
+dev/morgan/spass/service/PasswordStrengthService.class
+dev/morgan/spass/service/PasswordGeneratorService.class
+dev/morgan/spass/ui/Banner.class
+dev/morgan/spass/Main$CheckCommand.class
+dev/morgan/spass/Main$GenerateCommand.class

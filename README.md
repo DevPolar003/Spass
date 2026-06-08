@@ -1,6 +1,6 @@
 # Spass
 
-Simple and fast password utility built in Java using Picocli.
+Simple and fast password utility built in Java.
 
 Generate secure passwords directly from the terminal and check password strength.
 
@@ -10,7 +10,7 @@ Generate secure passwords directly from the terminal and check password strength
 - Check password strength
 - Simple CLI interface
 - Lightweight
-- Built with Java + Maven + Picocli
+- Built with Java + Maven
 
 ---
 
@@ -78,7 +78,6 @@ Strong password.
 
 - Java 21
 - Maven
-- Picocli
 
 ---
 
